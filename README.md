@@ -1,30 +1,25 @@
 # OAuth2
 
-[![Gem Version](http://img.shields.io/gem/v/oauth2.svg)][gem]
-[![Build Status](http://img.shields.io/travis/intridea/oauth2.svg)][travis]
-[![Dependency Status](http://img.shields.io/gemnasium/intridea/oauth2.svg)][gemnasium]
-[![Code Climate](http://img.shields.io/codeclimate/github/intridea/oauth2.svg)][codeclimate]
-[![Coverage Status](http://img.shields.io/coveralls/intridea/oauth2.svg)][coveralls]
+[![Build Status](https://travis-ci.org/cvut/oauth2.svg?branch=master)][travis]
+[![Dependency Status](https://gemnasium.com/cvut/oauth2.svg)][gemnasium]
+[![Code Climate](https://img.shields.io/codeclimate/github/cvut/oauth2.svg)][codeclimate]
+[![Coverage Status](https://img.shields.io/coveralls/cvut/oauth2.svg)][coveralls]
 
-[gem]: https://rubygems.org/gems/oauth2
-[travis]: http://travis-ci.org/intridea/oauth2
-[gemnasium]: https://gemnasium.com/intridea/oauth2
-[codeclimate]: https://codeclimate.com/github/intridea/oauth2
-[coveralls]: https://coveralls.io/r/intridea/oauth2
+[travis]: http://travis-ci.org/cvut/oauth2
+[gemnasium]: https://gemnasium.com/cvut/oauth2
+[codeclimate]: https://codeclimate.com/github/cvut/oauth2
+[coveralls]: https://coveralls.io/r/cvut/oauth2
 
-A Ruby wrapper for the OAuth 2.0 specification.
-
-## Installation
-    gem install oauth2
+Our fork of gem [oauth2](https://github.com/intridea/oauth2) – a Ruby wrapper for the OAuth 2.0 specification.
 
 ## Resources
 * [View Source on GitHub][code]
 * [Report Issues on GitHub][issues]
 * [Read More at the Wiki][wiki]
 
-[code]: https://github.com/intridea/oauth2
-[issues]: https://github.com/intridea/oauth2/issues
-[wiki]: https://wiki.github.com/intridea/oauth2
+[code]: https://github.com/cvut/oauth2
+[issues]: https://github.com/cvut/oauth2/issues
+[wiki]: https://wiki.github.com/cvut/oauth2
 
 ## Usage Examples
 
