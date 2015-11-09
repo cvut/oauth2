@@ -98,15 +98,10 @@ requests for tokens for any Authentication grant type.
 This library aims to support and is [tested against][travis] the following Ruby
 implementations:
 
-* Ruby 1.8.7
-* Ruby 1.9.3
-* Ruby 2.0.0
-* Ruby 2.1.0
-* [JRuby][]
-* [Rubinius][]
-
-[jruby]: http://jruby.org/
-[rubinius]: http://rubini.us/
+* Ruby 2.0
+* Ruby 2.1
+* Ruby 2.2
+* JRuby 9.0
 
 If something doesn't work on one of these interpreters, it's a bug.
 
